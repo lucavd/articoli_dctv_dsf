@@ -1,0 +1,122 @@
+================================================================================
+COLLABORAZIONI DCTV x DSF - UNIVERSITÀ DI PADOVA
+SELEZIONE: Statistica Medica, Farmaci e Terapia Cardiovascolare
+================================================================================
+
+IF TOTALE (41 articoli): 184.2
+IF MEDIO: 4.49
+
+================================================================================
+10 ARTICOLI SELEZIONATI (Temi: Statistica medica, Farmaci CV, Terapia CV)
+================================================================================
+
+Legenda formattazione autori:
+  ***NOME*** = Ricercatore DCTV (Dipartimento Scienze Cardio-Toraco-Vascolari e Sanità Pubblica)
+  ___NOME___ = Ricercatore DSF (Dipartimento Scienze del Farmaco)
+
+--------------------------------------------------------------------------------
+1. PMID: 38296049 (2024) - IF: 4.9
+   The Cost of Atrial Fibrillation: A Systematic Review.
+   Value in Health
+   
+   Autori: ***Buja A***, Rebba V, Montecchio L, Renzo G, ***Baldo V***, 
+   ***Cocchio S***, ___Ferri N___, ***Migliore F***, ***Zorzi A***, Collins B, 
+   Amrouch C, De Smedt D, Kypridemos C, Petrovic M, O'Flaherty M, Lip GYH
+
+--------------------------------------------------------------------------------
+2. PMID: 40750828 (2025) - IF: 5.2
+   The main protease (Mpro) from SARS-CoV-2 triggers plasma clotting in vitro 
+   by activating coagulation factors VII and FXII.
+   Communications Biology
+   
+   Autori: Pagotto A, Uliana F, Cavedon E, Nordio G, ***Pierangelini A***, 
+   ___Acquasaliente L___, Macchia ML, Bellanda M, ___Gatto B___, De Silvestro G, 
+   Marson P, ***Gregori D***, Simioni P, Picotti P, ___De Filippis V___
+
+--------------------------------------------------------------------------------
+3. PMID: 38750639 (2024) - IF: 5.3
+   Successful Recovery of Cardiac Function Following 20 min of a No-touch 
+   Period in a Donation After Circulatory Death: A Case Report.
+   Transplantation
+   
+   Autori: ***Zanatta P***, ___Linassi F___, Gasparetto N, Polesello L, 
+   Bussola M, Nascimben E, Minniti G, Cernetti C, ***Angelini M***, Feltrin G, 
+   Romano M, Zanus G, Benazzi F, ***Gerosa G***
+
+--------------------------------------------------------------------------------
+4. PMID: 34019247 (2021) - IF: 3.8
+   Unmet Clinical Needs in Elderly Patients Receiving Direct Oral 
+   Anticoagulants for Stroke Prevention in Non-valvular Atrial Fibrillation.
+   Advances in Therapy
+   
+   Autori: Botto G, Ameri P, Cappellari M, Dentali F, ___Ferri N___, 
+   Parrini I, Porto I, ***Squizzato A***, ***Camporese G***
+
+--------------------------------------------------------------------------------
+5. PMID: 33920144 (2021) - IF: 2.1
+   Von Willebrand Factor Multimers and the Relaxation Response: A One-Year Study.
+   Entropy
+   
+   Autori: Dal Lin C, ___Acquasaliente L___, Iliceto S, ___De Filippis V___, 
+   Vitiello G, ***Tona F***
+
+--------------------------------------------------------------------------------
+6. PMID: 32518155 (2020) - IF: 4.0
+   The J-elongated conformation of β2-glycoprotein I restricts exposure 
+   of its major antigen epitopes.
+   The Journal of Biological Chemistry
+   
+   Autori: Ruben E, Planer W, Chinnaraj M, Chen Z, Zuo X, ***Pengo V***, 
+   ___De Filippis V___, Alluri RK, McCrae KR, Macor P, Tedesco F, Pozzi N
+
+--------------------------------------------------------------------------------
+7. PMID: 30466070 (2018) - IF: 3.6
+   Lupus anticoagulant identifies two distinct groups of patients with 
+   different antibody patterns.
+   Thrombosis Research
+   
+   Autori: ***Pengo V***, Del Ross T, Ruffatti A, Bison E, Cattini MG, 
+   Pontara E, Testa S, Legnani C, Pozzi N, ___Peterle D___, 
+   ___Acquasaliente L___, ___De Filippis V___, Denas G
+
+--------------------------------------------------------------------------------
+8. PMID: 27760842 (2016) - IF: 4.4
+   Molecular mapping of α-thrombin (αT)/β2-glycoprotein I (β2GpI) interaction 
+   reveals how β2GpI affects αT functions.
+   The Biochemical Journal
+   
+   Autori: ___Acquasaliente L___, ___Peterle D___, ___Tescari S___, Pozzi N, 
+   ***Pengo V***, ___De Filippis V___
+
+--------------------------------------------------------------------------------
+9. PMID: 27789941 (2016) - IF: 6.6
+   Nanopatterned acellular valve conduits drive the commitment of 
+   blood-derived multipotent cells.
+   International Journal of Nanomedicine
+   
+   Autori: ___Di Liddo R___, Aguiari P, Barbon S, Bertalot T, Mandoli A, 
+   Tasso A, Schrenk S, ***Iop L***, Gandaglia A, Parnigotto PP, 
+   ___Conconi MT___, ***Gerosa G***
+
+--------------------------------------------------------------------------------
+10. PMID: 37892756 (2023) - IF: 3.0
+    RAndomized Clinical Trial Of NAfamostat Mesylate, A Potent Transmembrane 
+    Protease Serine 2 (TMPRSS2) Inhibitor, in Patients with COVID-19 Pneumonia.
+    Journal of Clinical Medicine
+    
+    Autori: Seccia TM, Shagjaa T, ___Morpurgo M___, Caroccia B, Sanga V, 
+    Faoro S, Venturini F, Iadicicco G, Lococo S, Mazzitelli M, Farnia F, 
+    Fioretto P, Kobayashi Y, ***Gregori D***, Rossi GP
+
+================================================================================
+IF TOTALE SELEZIONE (10 articoli): 42.9
+IF MEDIO SELEZIONE: 4.29
+================================================================================
+
+Ricercatori DCTV identificati: Buja A, Baldo V, Cocchio S, Migliore F, Zorzi A,
+  Pierangelini A, Gregori D, Zanatta P, Angelini M, Gerosa G, Squizzato A, 
+  Camporese G, Tona F, Pengo V, Iop L
+
+Ricercatori DSF identificati: Ferri N, Acquasaliente L, Gatto B, De Filippis V,
+  Linassi F, Peterle D, Tescari S, Di Liddo R, Conconi MT, Morpurgo M
+================================================================================

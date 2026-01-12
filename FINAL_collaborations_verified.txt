@@ -1,0 +1,99 @@
+================================================================================
+COLLABORAZIONI VERIFICATE DCTV x DSF - UNIVERSITÀ DI PADOVA
+================================================================================
+Data verifica: 2026-01-10
+Metodo: Ricerca PubMed per affiliazione + verifica manuale
+
+LOGICA DI SELEZIONE:
+- Option A: Entrambe le affiliazioni DCTV E DSF presenti (Padova)
+- I nomi dei docenti sono usati solo come info aggiuntiva
+
+PATTERN DCTV USATI:
+- cardiac.*thoracic.*vascular.*sciences
+- cardiovascular.*public.*health
+- legal medicine (parte del DCTV)
+- cardio.*toraco.*vascolar (italiano)
+
+PATTERN DSF USATI:
+- pharmaceutical.*pharmacological.*sciences
+- scienze.*del.*farmaco
+
+================================================================================
+ARTICOLI VERIFICATI (41 totali)
+================================================================================
+
+2025:
+1. PMID: 41473186 - Are parenting style and Mediterranean diet in children associated?
+2. PMID: 41458508 - Microbiota-based biomarkers of infection risk in patients undergoing vascular endograft implantation
+3. PMID: 41293723 - Cross-disciplinary awareness of healthcare associated infections (HAIs)
+4. PMID: 40819324 - Dexamethasone conjugation to an Avidin-Nucleic-Acid-Nano-Assemblies
+5. PMID: 40750828 - The main protease (Mpro) from SARS-CoV-2 triggers plasma clotting
+6. PMID: 40190580 - Hand-to-surface bacterial transfer and healthcare-associated infections
+7. PMID: 39931011 - Postmortem Redistribution of Oxycodone
+8. PMID: 39396825 - Long COVID in Immunocompromised and Immunocompetent Patients
+
+2024:
+9. PMID: 39366846 - Efficacy of nonopioid analgesics and adjuvants
+10. PMID: 38951692 - Targeting senescence induced by age or chemotherapy
+11. PMID: 38750639 - Successful Recovery of Cardiac Function
+12. PMID: 38296049 - The Cost of Atrial Fibrillation: A Systematic Review
+
+2023:
+13. PMID: 37978570 - Molecular and functional profiling of chemotolerant cells (medulloblastoma)
+14. PMID: 37892756 - RAndomized Clinical Trial Of NAfamostat Mesylate
+15. PMID: 37542678 - The Prevalent Comorbidome at the Onset of Psoriasis
+16. PMID: 36980229 - Development and In Vitro/In Vivo Comparative Characterization
+17. PMID: 36874984 - Preclinical and clinical orthotopic transplantation of decellularized/engineered tracheal scaffolds
+
+2022:
+18. PMID: 36530685 - Human microbiome and microbiota identification
+19. PMID: 36501146 - Animal- and Plant-Based Protein Sources: A Scoping Review
+20. PMID: 35829673 - Masks trigger facial seborrheic dermatitis and psoriasis
+21. PMID: 35666665 - COVID-19 first lockdown and outpatient hospital setting
+22. PMID: 35654630 - Anaesthetic depth and delirium after major surgery
+23. PMID: 35652004 - Influence of Previous General Anesthesia on Cognition
+24. PMID: 35383054 - Impact of the COVID-19 lockdown on psychological health
+
+2021:
+25. PMID: 34019247 - Unmet Clinical Needs in Elderly Patients Receiving Anticoagulants
+26. PMID: 33920144 - Von Willebrand Factor Multimers and the Relaxation
+27. PMID: 33533563 - COVID-19 related masks increase severity of both acne and rosacea
+28. PMID: 33527560 - Mask-induced Koebner phenomenon
+29. PMID: 33057619 - Does Eumelanin Oxidation Play a Role on Photostability
+
+2020:
+30. PMID: 32518155 - The J-elongated conformation of β2-glycoprotein I
+31. PMID: 30668723 - A Study on Photostability of Ethyl Glucuronide in Hair
+
+2019:
+32. PMID: 31319868 - Ciprofloxacin and levofloxacin attenuate microglia inflammatory response
+
+2018:
+33. PMID: 30466070 - Lupus anticoagulant identifies two distinct groups of patients
+34. PMID: 29843429 - A Study on Photostability of Amphetamines and Ketamine in Hair
+
+2017:
+35. PMID: 29204052 - Pregnane X receptor and constitutive androstane receptor modulate CYP3A
+
+2016:
+36. PMID: 27789941 - Nanopatterned acellular valve conduits
+37. PMID: 27760842 - Molecular mapping of α-thrombin/β2-glycoprotein I interaction
+38. PMID: 27153474 - Photostability of 6-MAM and morphine
+
+2014:
+39. PMID: 24831942 - Expression and distribution of the adrenomedullin system in newborn human thymus
+40. PMID: 24473458 - Assessment of standardised parenteral nutrition in paediatrics
+
+2011:
+41. PMID: 21206967 - Porous alginate/poly(ε-caprolactone) scaffolds
+
+================================================================================
+PMIDs PER RICERCA SU PUBMED:
+================================================================================
+41473186 OR 41458508 OR 41293723 OR 40819324 OR 40750828 OR 40190580 OR 39931011 OR 39396825 OR 39366846 OR 38951692 OR 38750639 OR 38296049 OR 37978570 OR 37892756 OR 37542678 OR 36980229 OR 36874984 OR 36530685 OR 36501146 OR 35829673 OR 35666665 OR 35654630 OR 35652004 OR 35383054 OR 34019247 OR 33920144 OR 33533563 OR 33527560 OR 33057619 OR 32518155 OR 30668723 OR 31319868 OR 30466070 OR 29843429 OR 29204052 OR 27789941 OR 27760842 OR 27153474 OR 24831942 OR 24473458 OR 21206967
+
+================================================================================
+NOTE:
+- Articolo 33135769 (Damiani et al.) NON trovato: nessuna affiliazione Padova nei metadati PubMed
+- Gli articoli con Legal Medicine (Favretto, Montisci) sono inclusi come parte del DCTV
+================================================================================

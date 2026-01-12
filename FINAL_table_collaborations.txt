@@ -1,0 +1,51 @@
+====================================================================================================================================================================================
+COLLABORAZIONI DCTV x DSF - UNIVERSITÀ DI PADOVA
+====================================================================================================================================================================================
+
+PMID         Anno   IF     Rivista                                       Autore DCTV                    Autore DSF                    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+41473186     2025   4.0    Frontiers in nutrition                        Buja Alessandra, Baldovin T... -                             
+41458508     2025   3.1    Frontiers in medicine                         Colacchio Elda Chiara, Greg... -                             
+41293723     2025   3.1    Frontiers in medicine                         Catelan Dolores, Caenazzo L... -                             
+40819324     2025   5.4    Drug delivery                                 Schiavon Elisa, Meloni Fede... Salmaso Anita, Mattarei Andrea
+40750828     2025   5.2    Communications biology                        Pierangelini Andrea, Gregor... Acquasaliente Laura, Gatto ...
+40190580     2025   3.1    Frontiers in medicine                         Catelan Dolores, Caenazzo L... -                             
+39931011     2025   2.5    Drug testing and analysis                     Aprile Anna, Favretto Donata   -                             
+39396825     2025   5.0    Archives of pathology & laboratory medicine   Bernardinello Nicol, Pezzut... -                             
+39366846     2024   9.1    British journal of anaesthesia                -                              -                             
+38951692     2024   16.6   Nature aging                                  Rizzo Beatrice, Giraudo Chiara Colucci Manuel, Dall'Acqua ...
+38750639     2024   5.3    Transplantation                               Zanatta Paolo, Angelini Matteo -                             
+38296049     2024   4.9    Value in health : the journal of the Inter... Buja Alessandra, Baldo Vinc... -                             
+37978570     2023   6.4    Acta neuropathologica communications          -                              Bortolozzi Roberta            
+37892756     2023   3.0    Journal of clinical medicine                  Gregori Dario                  Morpurgo Margherita           
+37542678     2023   3.6    Dermatology and therapy                       Buja Alessandra                -                             
+36980229     2023   5.1    Cells                                         -                              Conconi Maria Teresa          
+36874984     2023   4.2    Journal of tissue engineering                 -                              Conconi Maria Teresa          
+36530685     2022   3.0    Frontiers in public health                    Tozzo Pamela, Caenazzo Luciana -                             
+36501146     2022   4.8    Nutrients                                     -                              Bertazzo Antonella            
+35829673     2022   2.0    Italian journal of dermatology and venereo... Buja Alessandra                Gironi Laura C, Pigatto Pao...
+35666665     2022   2.0    Italian journal of dermatology and venereo... Buja Alessandra                Gironi Laura C, Pigatto Pao...
+35654630     2022   9.1    British journal of anaesthesia                Zanatta Paolo                  -                             
+35652004     2022   2.4    Frontiers in human neuroscience               Gerosa Gino, Zanatta Paolo     -                             
+35383054     2022   2.4    BMJ open                                      Lorenzoni Giulia, Gregori D... Giron Maria Cecilia           
+34019247     2021   3.8    Advances in therapy                           Squizzato Alessandro           -                             
+33920144     2021   2.1    Entropy (Basel, Switzerland)                  Tona Francesco                 Acquasaliente Laura, De Fil...
+33533563     2021   3.4    Dermatologic therapy                          Buja Alessandra                Gironi Laura C, Pigatto Pao...
+33527560     2021   3.4    Dermatologic therapy                          Buja Alessandra                Gironi Laura Cristina, Piga...
+33057619     2021   2.6    Journal of analytical toxicology              Favretto Donata                Miolo Giorgia                 
+32518155     2020   4.0    The Journal of biological chemistry           -                              De Filippis Vincenzo          
+30668723     2020   2.6    Journal of analytical toxicology              Montisci Massimo, Favretto ... Miolo Giorgia, Menilli Luca   
+31319868     2019   9.3    Journal of neuroinflammation                  Frigo Anna Chiara              Zusso Morena, Frigo Anna Ch...
+30466070     2018   3.6    Thrombosis research                           -                              Acquasaliente L, De Filippis V
+29843429     2018   2.7    Brain sciences                                Montisci Massimo, Favretto ... Miolo Giorgia, Menilli Luca   
+29204052     2017   4.3    World journal of gastroenterology             Baldo Vincenzo, Baldovin Ta... Gabbia Daniela                
+27789941     2016   6.6    International journal of nanomedicine         Iop Laura, Gerosa Gino         Di Liddo Rosa, Conconi Mari...
+27760842     2016   4.4    The Biochemical journal                       -                              Acquasaliente Laura, De Fil...
+27153474     2016   3.8    Journal of pharmaceutical and biomedical a... Favretto Donata                Miolo Giorgia                 
+24831942     2014   2.9    PloS one                                      Basso Giuseppe                 De Martin Sara, Gabbia Daniela
+24473458     2014   4.4    European journal of clinical nutrition        Frigo A C                      Frigo A C, Bertazzo A         
+21206967     2011   5.0    International journal of molecular medicine   Giraudo Chiara                 Di Liddo Rosa, Conconi Mari...
+
+====================================================================================================================================================================================
+IF = Impact Factor Clarivate JCR 2024
+N/D = Non Disponibile

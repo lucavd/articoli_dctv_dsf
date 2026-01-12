@@ -1,0 +1,805 @@
+COLLABORATIVE PUBLICATIONS: DCTV x DSF
+University of Padova
+Search date: 2026-01-10 21:14:33
+Total collaborations found: 27
+================================================================================
+
+[1] PMID: 41473186
+Year: 2025
+Title: Are parenting style and Mediterranean diet in children associated?
+Journal: Frontiers in nutrition
+Authors: Buja Alessandra, Miatton Andrea, Zanovello Anna, Brocadello Filippo, Muhiddin Marian Nur, Spreghini Ilaria, Grotto Giulia, Baldovin Tatjana
+
+DCTV Authors matched: Buja Alessandra, Baldovin Tatjana
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Affidea Poliambulatorio Morgagni, Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41473186/
+--------------------------------------------------------------------------------
+
+[2] PMID: 40843368
+Year: 2025
+Title: Durability and effectiveness of dual vs. triple therapy and tablet simplification in ART: findings from the Italian MOSAICO study.
+Journal: Frontiers in pharmacology
+Authors: Mengato Daniele, Berti Giacomo, Francavilla Andrea, Michielan Silvia, Cappellazzo Linda, Agnoletto Laura, Silvani Maria Chiara, Chiumente Marco, Gregori Dario, Mazzitelli Maria, Venturini Francesca, Cattelan Anna Maria
+
+DCTV Authors matched: Gregori Dario
+DSF Authors matched: None
+
+All affiliations:
+  - Hospital Pharmacy Unit, Azienda Ospedale-Università Padova, Padova, Italy.
+  - Hospital Pharmacy Unit, Azienda Ospedale-Università Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac Thoracic Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac Thoracic Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Pharmaceutical Department, Azienda AUSL of Modena, Modena, Italy.
+  - Hospital Pharmacy, Hospital of Bolzano (SABES-ASDAA), Bolzano, Italy.
+  - Hospital Pharmacy Unit, Azienda Ulss 5 Polesana, Rovigo, Italy.
+  - Hospital Pharmacy Unit, Azienda USL Romagna, Ravenna, Italy.
+  - Società Italiana di Farmacia Clinica e Terapia (SIFaCT), Turin, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac Thoracic Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Infectious and Tropical Diseases Unit, Azienda Ospedale-Università Padova, Padova, Italy.
+  - Hospital Pharmacy Unit, Azienda Ospedale-Università Padova, Padova, Italy.
+  - Infectious and Tropical Diseases Unit, Azienda Ospedale-Università Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40843368/
+--------------------------------------------------------------------------------
+
+[3] PMID: 41458508
+Year: 2025
+Title: Microbiota-based biomarkers of infection risk in patients undergoing vascular endograft implantation: a pilot study.
+Journal: Frontiers in medicine
+Authors: Delicati Arianna, Colacchio Elda Chiara, Marcante Beatrice, Stinziani Giulia, Grego Franco, Caenazzo Luciana, Tozzo Pamela
+
+DCTV Authors matched: Colacchio Elda Chiara, Grego Franco, Caenazzo Luciana, Tozzo Pamela
+DSF Authors matched: None
+
+All affiliations:
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Vascular Surgery Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Vascular Surgery Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Vascular Surgery Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41458508/
+--------------------------------------------------------------------------------
+
+[4] PMID: 40190580
+Year: 2025
+Title: Hand-to-surface bacterial transfer and healthcare-associated infections prevention: a pilot study on skin microbiome in a molecular biology laboratory.
+Journal: Frontiers in medicine
+Authors: Delicati Arianna, Marcante Beatrice, Catelan Dolores, Biggeri Annibale, Caenazzo Luciana, Tozzo Pamela
+
+DCTV Authors matched: Catelan Dolores, Caenazzo Luciana, Tozzo Pamela
+DSF Authors matched: None
+
+All affiliations:
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40190580/
+--------------------------------------------------------------------------------
+
+[5] PMID: 39396825
+Year: 2025
+Title: Long COVID in Immunocompromised and Immunocompetent Patients: A Clinical, Morphologic, and Virologic Portrait.
+Journal: Archives of pathology & laboratory medicine
+Authors: Ramalhosa Fátima, Lunardi Francesca, Bernardinello Nicol, Gori Silvia, Pezzuto Federica, Tauro Veronica, Del Vecchio Claudia, Giraudo Chiara, Balestro Elisabetta, Calabrese Fiorella
+
+DCTV Authors matched: Bernardinello Nicol, Pezzuto Federica, Giraudo Chiara, Calabrese Fiorella
+DSF Authors matched: None
+
+All affiliations:
+  - From the Pathology Department, Centro Hospitalar e Universitário de Coimbra, Coimbra, Portugal (Ramalhosa).
+  - the Departments of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy (Lunardi, Bernardinello, Pezzuto, Giraudo, Balestro, Calabrese).
+  - the Departments of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy (Lunardi, Bernardinello, Pezzuto, Giraudo, Balestro, Calabrese).
+  - and the Immunology and Molecular Oncology Diagnostics Unit, Istituto Oncologico Veneto IOV-IRCCS, Padova, Italy (Gori).
+  - the Departments of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy (Lunardi, Bernardinello, Pezzuto, Giraudo, Balestro, Calabrese).
+  - Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy (Tauro).
+  - and Molecular Medicine, University of Padova, Padova, Italy (Del Vecchio).
+  - the Departments of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy (Lunardi, Bernardinello, Pezzuto, Giraudo, Balestro, Calabrese).
+  - the Departments of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy (Lunardi, Bernardinello, Pezzuto, Giraudo, Balestro, Calabrese).
+  - the Departments of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy (Lunardi, Bernardinello, Pezzuto, Giraudo, Balestro, Calabrese).
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39396825/
+--------------------------------------------------------------------------------
+
+[6] PMID: 41293723
+Year: 2025
+Title: Cross-disciplinary awareness of healthcare associated infections (HAIs): insights from a university-wide survey.
+Journal: Frontiers in medicine
+Authors: Delicati Arianna, Catelan Dolores, Marcante Beatrice, Caenazzo Luciana, Tozzo Pamela
+
+DCTV Authors matched: Catelan Dolores, Caenazzo Luciana, Tozzo Pamela
+DSF Authors matched: None
+
+All affiliations:
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41293723/
+--------------------------------------------------------------------------------
+
+[7] PMID: 38296049
+Year: 2024
+Title: The Cost of Atrial Fibrillation: A Systematic Review.
+Journal: Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research
+Authors: Buja Alessandra, Rebba Vincenzo, Montecchio Laura, Renzo Giulia, Baldo Vincenzo, Cocchio Silvia, Ferri Nicola, Migliore Federico, Zorzi Alessandro, Collins Brendan, Amrouch Cheïma, De Smedt Delphine, Kypridemos Christodoulos, Petrovic Mirko, O'Flaherty Martin, Lip Gregory Y H
+
+DCTV Authors matched: Buja Alessandra, Baldo Vincenzo, Cocchio Silvia, Migliore Federico, Zorzi Alessandro
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Italy.
+  - Department of Economics and Management "Marco Fanno," University of Padua and Interuniversity Research Centre of Public Economics (CRIEP), Padua, Italy. Electronic address: vincenzo.rebba@unipd.it.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Italy.
+  - Department of Economics and Management "Marco Fanno," University of Padua Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Italy.
+  - Department of Public Health, Policy & Systems - Institute of Population Health, University of Liverpool, England, UK.
+  - Department of Internal Medicine and Paediatrics, Ghent University, Belgium; Department of Public Health and Primary Care, Ghent University, Belgium.
+  - Department of Public Health and Primary Care, Ghent University, Belgium.
+  - Department of Public Health, Policy & Systems - Institute of Population Health, University of Liverpool, England, UK.
+  - Department of Internal Medicine and Paediatrics, Ghent University, Belgium.
+  - Department of Public Health, Policy & Systems - Institute of Population Health, University of Liverpool, England, UK; Liverpool Centre for Cardiovascular Science, University of Liverpool, Liverpool, England, UK.
+  - Liverpool Centre for Cardiovascular Science, University of Liverpool, Liverpool, England, UK; Danish Center for Health Services Research, Department of Clinical Medicine, Aalborg University, Aalborg, Denmark.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38296049/
+--------------------------------------------------------------------------------
+
+[8] PMID: 38750639
+Year: 2024
+Title: Successful Recovery of Cardiac Function Following 20 min of a No-touch Period in a Donation After Circulatory Death: A Case Report.
+Journal: Transplantation
+Authors: Zanatta Paolo, Linassi Federico, Gasparetto Nicola, Polesello Luigi, Bussola Matteo, Nascimben Ennio, Minniti Giuseppe, Cernetti Carlo, Angelini Matteo, Feltrin Giuseppe, Romano Maurizio, Zanus Giacomo, Benazzi Francesco, Gerosa Gino
+
+DCTV Authors matched: Gerosa Gino
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Anesthesiology and Critical Care, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Department of Anesthesiology and Critical Care, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, Università degli Studi di Padova, Padova, Italy.
+  - Division of Cardiology, Neuro-Cardio-Vascular Department, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Department of Anesthesiology and Critical Care, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Department of Anesthesiology and Critical Care, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Department of Anesthesiology and Critical Care, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Division of Cardiac Surgery, Neuro-Cardio-Vascular Department, Treviso Regional Hospital AULSS 2 Marca Trevigiana Piazzale Ospedale 1, Treviso, Italy.
+  - Division of Cardiology, Neuro-Cardio-Vascular Department, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Department of Anesthesiology and Critical Care, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Veneto Region Transplant Center Coordination, Veneto Region, Italy.
+  - Division of Hepato-Pancreatic and Kidney Transplantation Surgery, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Division of Hepato-Pancreatic and Kidney Transplantation Surgery, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Department of Hospital Strategic Direction, Treviso Regional Hospital AULSS 2 Marca Trevigiana, Treviso, Italy.
+  - Cardiac Surgery Clinic, Department of Cardiac, Thoracic-Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38750639/
+--------------------------------------------------------------------------------
+
+[9] PMID: 38553412
+Year: 2024
+Title: The effect of low birth weight as an intrauterine exposure on the early onset of sarcopenia through possible molecular pathways.
+Journal: Journal of cachexia, sarcopenia and muscle
+Authors: Celik Dilek, Campisi Manuela, Cannella Luana, Pavanello Sofia
+
+DCTV Authors matched: Campisi Manuela, Pavanello Sofia
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Pharmceutical and Pharmacological Sciences, University of Padua, Padua, Italy.
+  - Department of Cardiac Thoracic Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+  - Department of Cardiac Thoracic Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+  - Department of Cardiac Thoracic Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+  - University Hospital of Padova, Padua, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38553412/
+--------------------------------------------------------------------------------
+
+[10] PMID: 38951692
+Year: 2024
+Title: Targeting senescence induced by age or chemotherapy with a polyphenol-rich natural extract improves longevity and healthspan in mice.
+Journal: Nature aging
+Authors: Zumerle Sara, Sarill Miles, Saponaro Miriam, Colucci Manuel, Contu Liliana, Lazzarini Edoardo, Sartori Roberta, Pezzini Camilla, Rinaldi Anna, Scanu Anna, Sgrignani Jacopo, Locatelli Patrizia, Sabbadin Marianna, Valdata Aurora, Brina Daniela, Giacomini Isabella, Rizzo Beatrice, Pierantoni Alessandra, Sharifi Saman, Bressan Silvia, Altomare Claudia, Goshovska Yulia, Giraudo Chiara, Luisetto Roberto, Iaccarino Luca, Torcasio Cristina, Mosole Simone, Pasquini Emiliano, Rinaldi Andrea, Pellegrini Laura, Peron Gregorio, Fassan Matteo, Masiero Stefano, Giori Andrea Maria, Dall'Acqua Stefano, Auwerx Johan, Cippà Pietro, Cavalli Andrea, Bolis Marco, Sandri Marco, Barile Lucio, Montopoli Monica, Alimonti Andrea
+
+DCTV Authors matched: Giraudo Chiara
+DSF Authors matched: Dall'Acqua Stefano, Montopoli Monica
+
+All affiliations:
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Department of Urology and Pediatric Urology, University Medical Center Bonn (UKB), Bonn, Germany.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Faculty of Biology and Medicine, University of Lausanne UNIL, Lausanne, Switzerland.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Cardiovascular Theranostics, Istituto Cardiocentro Ticino, Laboratories for Translational Research, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+  - Faculty of Biomedical Sciences, Euler Institute, Università della Svizzera Italiana, Lugano, Switzerland.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Biomedical Sciences, University of Padova, Padova, Italy.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Biomedical Sciences, University of Padova, Padova, Italy.
+  - Department of Medicine, Division of Nephrology, Ente Ospedaliero Cantonale, Lugano, Switzerland.
+  - Laboratories for Translational Research, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+  - Department of Neuroscience, Rehabilitation Unit, University of Padova, Padova, Italy.
+  - Institute for Research in Biomedicine, Università della Svizzera italiana, Bellinzona, Switzerland.
+  - Institute for Research in Biomedicine, Università della Svizzera italiana, Bellinzona, Switzerland.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Veneto Institute of Oncology IOV - IRCCS, Padova, Italy.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Department of Health Sciences and Technology (D-HEST), ETH Zurich, Zurich, Switzerland.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Veneto Institute of Oncology IOV - IRCCS, Padova, Italy.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Institute for Research on Cancer and Aging, Nice, France.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Cardiovascular Theranostics, Istituto Cardiocentro Ticino, Laboratories for Translational Research, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+  - Faculty of Biomedical Sciences, Euler Institute, Università della Svizzera Italiana, Lugano, Switzerland.
+  - Cardiovascular Theranostics, Istituto Cardiocentro Ticino, Laboratories for Translational Research, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+  - Faculty of Biomedical Sciences, Euler Institute, Università della Svizzera Italiana, Lugano, Switzerland.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health - DCTV, University of Padova, Padova, Italy.
+  - Department of Surgery, Oncology and Gastroenterology, University of Padova, Padova, Italy.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Department of Medicine, Division of Nephrology, Ente Ospedaliero Cantonale, Lugano, Switzerland.
+  - Laboratories for Translational Research, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy.
+  - Department of Medicine, University of Padova, Padova, Italy.
+  - Veneto Institute of Oncology IOV - IRCCS, Padova, Italy.
+  - Department of Neuroscience, Rehabilitation Unit, University of Padova, Padova, Italy.
+  - R&D Department, IBSA Farmaceutici Italia, Lodi, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Laboratory of Integrative Systems Physiology, Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Department of Medicine, Division of Nephrology, Ente Ospedaliero Cantonale, Lugano, Switzerland.
+  - Laboratories for Translational Research, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Institute for Research in Biomedicine, Università della Svizzera italiana, Bellinzona, Switzerland.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland.
+  - Università della Svizzera italiana, Lugano, Switzerland.
+  - Veneto Institute of Molecular Medicine, Padova, Italy.
+  - Department of Biomedical Sciences, University of Padova, Padova, Italy.
+  - Cardiovascular Theranostics, Istituto Cardiocentro Ticino, Laboratories for Translational Research, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+  - Faculty of Biomedical Sciences, Euler Institute, Università della Svizzera Italiana, Lugano, Switzerland.
+  - Veneto Institute of Molecular Medicine, Padova, Italy. monica.montopoli@unipd.it.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy. monica.montopoli@unipd.it.
+  - Veneto Institute of Molecular Medicine, Padova, Italy. andrea.alimonti@ior.usi.ch.
+  - Department of Medicine, University of Padova, Padova, Italy. andrea.alimonti@ior.usi.ch.
+  - Institute of Oncology Research (IOR), Bellinzona, Switzerland. andrea.alimonti@ior.usi.ch.
+  - Università della Svizzera italiana, Lugano, Switzerland. andrea.alimonti@ior.usi.ch.
+  - Department of Health Sciences and Technology (D-HEST), ETH Zurich, Zurich, Switzerland. andrea.alimonti@ior.usi.ch.
+  - Oncology Institute of Southern Switzerland, Ente Ospedaliero Cantonale, Bellinzona, Switzerland. andrea.alimonti@ior.usi.ch.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38951692/
+--------------------------------------------------------------------------------
+
+[11] PMID: 36874984
+Year: 2023
+Title: Preclinical and clinical orthotopic transplantation of decellularized/engineered tracheal scaffolds: A systematic literature review.
+Journal: Journal of tissue engineering
+Authors: Stocco Elena, Barbon Silvia, Mammana Marco, Zambello Giovanni, Contran Martina, Parnigotto Pier Paolo, Macchi Veronica, Conconi Maria Teresa, Rea Federico, De Caro Raffaele, Porzionato Andrea
+
+DCTV Authors matched: None
+DSF Authors matched: Conconi Maria Teresa
+
+All affiliations:
+  - Department of Neurosciences, Section of Human Anatomy, University of Padova, Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, Padova, Italy.
+  - Department of Neurosciences, Section of Human Anatomy, University of Padova, Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University Hospital of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University Hospital of Padova, Padova, Italy.
+  - Department of Neurosciences, Section of Human Anatomy, University of Padova, Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, Padova, Italy.
+  - Department of Neurosciences, Section of Human Anatomy, University of Padova, Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University Hospital of Padova, Padova, Italy.
+  - Department of Neurosciences, Section of Human Anatomy, University of Padova, Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, Padova, Italy.
+  - Department of Neurosciences, Section of Human Anatomy, University of Padova, Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/36874984/
+--------------------------------------------------------------------------------
+
+[12] PMID: 37542678
+Year: 2023
+Title: The Prevalent Comorbidome at the Onset of Psoriasis Diagnosis.
+Journal: Dermatology and therapy
+Authors: Buja Alessandra, Miatton Andrea, Cozzolino Claudia, Brazzale Alessandra Rosalba, Lo Bue Roberta, Mercuri Santo Raffaele, Proft Fabian Nikolai, Kridin Khalaf, Cohen Arnon Dov, Damiani Giovanni
+
+DCTV Authors matched: Buja Alessandra
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy. alessandra.buja@unipd.it.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology IOV-IRCCS, Padua, Italy.
+  - Department of Statistics, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padua, Padua, Italy.
+  - Italian Center of Precision Medicine and Chronic Inflammation, University of Milan, Via Commenda 10, 20122, Milan, Italy.
+  - Unit of Dermatology and Cosmetology, IRCCS San Raffaele Hospital, Milan, Italy.
+  - Department of Gastroenterology, Infectiology and Rheumatology (Including Nutrition Medicine), Charité Universitätsmedizin Berlin, Berlin, Germany.
+  - Unit of Dermatology and Skin Research Laboratory, Barch Padeh Medical Center, Tiberias, Israel.
+  - Chief Physician's Office, Clalit Health Services, Tel Aviv, Israel.
+  - Siaal Research Center for Family Medicine and Primary Care, Faculty of Health Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel.
+  - Italian Center of Precision Medicine and Chronic Inflammation, University of Milan, Via Commenda 10, 20122, Milan, Italy. giovanni.damiani1@unimi.it.
+  - Unit of Dermatology and Cosmetology, IRCCS San Raffaele Hospital, Milan, Italy. giovanni.damiani1@unimi.it.
+  - Department of Biomedical, Surgical and Dental Sciences, University of Milan, Milan, Italy. giovanni.damiani1@unimi.it.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy. giovanni.damiani1@unimi.it.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/37542678/
+--------------------------------------------------------------------------------
+
+[13] PMID: 36980229
+Year: 2023
+Title: Development and In Vitro/In Vivo Comparative Characterization of Cryopreserved and Decellularized Tracheal Grafts.
+Journal: Cells
+Authors: Stocco Elena, Barbon Silvia, Mammana Marco, Trojan Diletta, Bianchin Alice, Favaretto Francesca, Contran Martina, Zambello Giovanni, Vogliardi Andrea, Confalonieri Marta, Todros Silvia, Pavan Piero G, Romanato Filippo, Conconi Maria Teresa, Macchi Veronica, De Caro Raffaele, Rea Federico, Porzionato Andrea
+
+DCTV Authors matched: None
+DSF Authors matched: Conconi Maria Teresa
+
+All affiliations:
+  - Section of Human Anatomy, Department of Neuroscience, University of Padova, 35121 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, 35136 Padova, Italy.
+  - Section of Human Anatomy, Department of Neuroscience, University of Padova, 35121 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, 35136 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Thoracic Surgery Division, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, Padova University Hospital, Via Giustiniani, 2, 35128 Padova, Italy.
+  - Tissue Bank, Fondazione Banca dei Tessuti del Veneto ETS, 31100 Treviso, Italy.
+  - Tissue Bank, Fondazione Banca dei Tessuti del Veneto ETS, 31100 Treviso, Italy.
+  - Tissue Bank, Fondazione Banca dei Tessuti del Veneto ETS, 31100 Treviso, Italy.
+  - Section of Human Anatomy, Department of Neuroscience, University of Padova, 35121 Padova, Italy.
+  - Thoracic Surgery Division, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, Padova University Hospital, Via Giustiniani, 2, 35128 Padova, Italy.
+  - Department of Physics and Astronomy 'G. Galilei', University of Padova, 35131 Padova, Italy.
+  - Department of Industrial Engineering, University of Padova, 35131 Padova, Italy.
+  - Department of Industrial Engineering, University of Padova, 35131 Padova, Italy.
+  - Department of Industrial Engineering, University of Padova, 35131 Padova, Italy.
+  - Fondazione Istituto di Ricerca Pediatrica Città della Speranza, 35127 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Department of Physics and Astronomy 'G. Galilei', University of Padova, 35131 Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, 35131 Padova, Italy.
+  - Section of Human Anatomy, Department of Neuroscience, University of Padova, 35121 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, 35136 Padova, Italy.
+  - Section of Human Anatomy, Department of Neuroscience, University of Padova, 35121 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, 35136 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Thoracic Surgery Division, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, Padova University Hospital, Via Giustiniani, 2, 35128 Padova, Italy.
+  - Section of Human Anatomy, Department of Neuroscience, University of Padova, 35121 Padova, Italy.
+  - L.i.f.e.L.a.b. Program, Consorzio per la Ricerca Sanitaria (CORIS), Veneto Region, 35128 Padova, Italy.
+  - Foundation for Biology and Regenerative Medicine, Tissue Engineering and Signaling-TES, Onlus, 35136 Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/36980229/
+--------------------------------------------------------------------------------
+
+[14] PMID: 37978570
+Year: 2023
+Title: Molecular and functional profiling of chemotolerant cells unveils nucleoside metabolism-dependent vulnerabilities in medulloblastoma.
+Journal: Acta neuropathologica communications
+Authors: Mariotto Elena, Rampazzo Elena, Bortolozzi Roberta, Rruga Fatlum, Zeni Ilaria, Manfreda Lorenzo, Marchioro Chiara, Canton Martina, Cani Alice, Magni Ruben, Luchini Alessandra, Bresolin Silvia, Viola Giampietro, Persano Luca
+
+DCTV Authors matched: None
+DSF Authors matched: Bortolozzi Roberta
+
+All affiliations:
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Unit of Biostatistics, Department of Cardiac, Thoracic and Vascular Sciences and Public Health, University of Padova, Via Loredan 18, 35131, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy. elena.rampazzo@unipd.it.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy. elena.rampazzo@unipd.it.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy. roberta.bortolozzi@unipd.it.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy. roberta.bortolozzi@unipd.it.
+  - Section of Pharmacology, Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Largo Meneghetti 2, 35131, Padua, Italy. roberta.bortolozzi@unipd.it.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Center for Applied Proteomics and Molecular Medicine, George Mason University, 10920 George Mason Circle, MSN 1A9, Manassas, VA, 20110, USA.
+  - Center for Applied Proteomics and Molecular Medicine, George Mason University, 10920 George Mason Circle, MSN 1A9, Manassas, VA, 20110, USA.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+  - Department of Women's and Children's Health, University of Padova, Via Giustiniani 3, 35128, Padua, Italy.
+  - Pediatric Research Institute, Corso Stati Uniti 4, 35127, Padua, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/37978570/
+--------------------------------------------------------------------------------
+
+[15] PMID: 36501146
+Year: 2022
+Title: Animal- and Plant-Based Protein Sources: A Scoping Review of Human Health Outcomes and Environmental Impact.
+Journal: Nutrients
+Authors: Ferrari Luca, Panaite Stefan-Alexandru, Bertazzo Antonella, Visioli Francesco
+
+DCTV Authors matched: None
+DSF Authors matched: Bertazzo Antonella
+
+All affiliations:
+  - Department of Molecular Medicine, University of Padova, 35122 Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, School of Hygiene and Preventive Medicine, University of Padova, 35122 Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, 35122 Padova, Italy.
+  - Department of Molecular Medicine, University of Padova, 35122 Padova, Italy.
+  - IMDEA-Food, CEI UAM+CSIC, 28001 Madrid, Spain.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/36501146/
+--------------------------------------------------------------------------------
+
+[16] PMID: 35652004
+Year: 2022
+Title: Influence of Previous General Anesthesia on Cognitive Impairment: An Observational Study Among 151 Patients.
+Journal: Frontiers in human neuroscience
+Authors: Linassi Federico, De Laurenzis Alessandro, Maran Eleonora, Gadaldi Alessandra, Spano' Leonardo, Gerosa Gino, Pittarello Demetrio, Zanatta Paolo, Carron Michele
+
+DCTV Authors matched: Gerosa Gino
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Department of Medicine, Anaesthesiology and Intensive Care, University of Padova, Padova, Italy.
+  - Department of Medicine, Anaesthesiology and Intensive Care, University of Padova, Padova, Italy.
+  - Department of Medicine, Anaesthesiology and Intensive Care, University of Padova, Padova, Italy.
+  - Department of Medicine, Anaesthesiology and Intensive Care, University of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Medicine, Anaesthesiology and Intensive Care, University of Padova, Padova, Italy.
+  - Department of Anesthesia and Intensive Care, Integrated University Hospital of Verona, Verona, Italy.
+  - Department of Medicine, Anaesthesiology and Intensive Care, University of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35652004/
+--------------------------------------------------------------------------------
+
+[17] PMID: 36530685
+Year: 2022
+Title: Human microbiome and microbiota identification for preventing and controlling healthcare-associated infections: A systematic review.
+Journal: Frontiers in public health
+Authors: Tozzo Pamela, Delicati Arianna, Caenazzo Luciana
+
+DCTV Authors matched: Tozzo Pamela, Caenazzo Luciana
+DSF Authors matched: None
+
+All affiliations:
+  - Legal Medicine Unit, Laboratory of Forensic Genetics, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Laboratory of Forensic Genetics, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Legal Medicine Unit, Laboratory of Forensic Genetics, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/36530685/
+--------------------------------------------------------------------------------
+
+[18] PMID: 35829673
+Year: 2022
+Title: Masks trigger facial seborrheic dermatitis and psoriasis: evidence from a multicenter, case-control study during COVID-19 pandemic.
+Journal: Italian journal of dermatology and venereology
+Authors: Damiani Giovanni, Finelli Renata, Kridin Khalaf, Pacifico Alessia, Buja Alessandra, Bragazzi Nicola L, Malagoli Piergiorgio, Savoia Paola, Gironi Laura C, Grada Ayman, Conic Rosalynn R, Linder Dennis, Micali Giuseppe, Pigatto Paolo D
+
+DCTV Authors matched: Buja Alessandra
+DSF Authors matched: None
+
+All affiliations:
+  - Clinical Dermatology, IRCCS Galeazzi Orthopedic Institute, Milan, Italy - dr.giovanni.damiani@gmail.com.
+  - Department of Biomedical, Surgical and Dental Sciences, University of Milan, Milan, Italy - dr.giovanni.damiani@gmail.com.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy - dr.giovanni.damiani@gmail.com.
+  - Gamma Analisi Cliniche S.r.l., Caserta, Italy.
+  - Lübeck Institute of Experimental Dermatology, University of Lübeck, Lübeck, Germany.
+  - Clinical Dermatology Department, IRCCS S. Gallicano Dermatological Institute, Rome, Italy.
+  - Unit of Hygiene and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+  - Laboratory for Industrial and Applied Mathematics (LIAM), Department of Mathematics and Statistics, York University, Toronto, Canada.
+  - Unit of Dermatology, San Donato Milanese Hospital, San Donato Milanese, Milan, Italy.
+  - Department of Health Sciences, University of Eastern Piedmont, Novara, Italy.
+  - Maggiore della Carità University Hospital, Novara, Italy.
+  - Department of Dermatology, Boston University School of Medicine, Boston, MA, USA.
+  - Department of Family Medicine and Public Health, University of California, San Diego, CA, USA.
+  - University Clinic for Medical Psychology and Psychotherapy, Medical University of Graz, Graz, Austria.
+  - Dermatology Clinic, University of Catania, Catania, Italy.
+  - Clinical Dermatology, IRCCS Galeazzi Orthopedic Institute, Milan, Italy.
+  - Department of Biomedical, Surgical and Dental Sciences, University of Milan, Milan, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35829673/
+--------------------------------------------------------------------------------
+
+[19] PMID: 35383054
+Year: 2022
+Title: Impact of the COVID-19 lockdown on psychological health and nutritional habits in Italy: results from the #PRESTOinsieme study.
+Journal: BMJ open
+Authors: Lorenzoni Giulia, Azzolina Danila, Maresio Elisabetta, Gallipoli Silvia, Ghidina Marco, Baldas Solidea, Berchialla Paola, Giron Maria Cecilia, Silano Marco, Gregori Dario
+
+DCTV Authors matched: Lorenzoni Giulia, Gregori Dario
+DSF Authors matched: Giron Maria Cecilia
+
+All affiliations:
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padova, Padova, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padova, Padova, Italy.
+  - Department of Medical Sciences, University of Ferrara, Ferrara, Italy.
+  - Psychotherapy Unit Prochild Onlus, Trieste, Italy.
+  - Zeta Research Ltd, Trieste, Italy.
+  - Zeta Research Ltd, Trieste, Italy.
+  - University of Padova School of Medicine and Surgery, Padova, Italy.
+  - Department of Clinical and Biological Sciences, University of Turin, Turin, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Unit of Human Nutrition and Health, Department of Food Safety, Nutrition and Veterinary Public Health, Italian National Institute of Health, Rome, Italy.
+  - Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, University of Padova, Padova, Italy dario.gregori@unipd.it.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35383054/
+--------------------------------------------------------------------------------
+
+[20] PMID: 35666665
+Year: 2022
+Title: COVID-19 first lockdown and outpatient hospital setting: a single center, real life study focusing on pattern changes in patients' ethnicities and treated dermatoses.
+Journal: Italian journal of dermatology and venereology
+Authors: Gironi Laura C, Esposto Elia, Giorgione Roberto, Zavattaro Elisa, Farinelli Pamela, Giordano Mara, Mellone Simona, Buja Alessandra, Pigatto Paolo D, Damiani Giovanni, Savoia Paola
+
+DCTV Authors matched: Buja Alessandra
+DSF Authors matched: None
+
+All affiliations:
+  - Maggiore della Carità University Hospital, Novara, Italy - gironi.laura@gmail.com.
+  - Department of Cardiac, Thoracic Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+  - Maggiore della Carità University Hospital, Novara, Italy.
+  - Maggiore della Carità University Hospital, Novara, Italy.
+  - Maggiore della Carità University Hospital, Novara, Italy.
+  - Department of Cardiac, Thoracic Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+  - Department of Biomedical, Surgical and Dental Sciences, University of Milan, Milan, Italy.
+  - Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy.
+  - Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy.
+  - Department of Cardiac, Thoracic Vascular Sciences and Public Health, University of Padua, Padua, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35666665/
+--------------------------------------------------------------------------------
+
+[21] PMID: 35654630
+Year: 2022
+Title: Anaesthetic depth and delirium after major surgery. Comment on Br J Anaesth 2022; 127: 704-12.
+Journal: British journal of anaesthesia
+Authors: Linassi Federico, Maran Eleonora, Spano Leonardo, Zanatta Paolo, Carron Michele
+
+DCTV Authors matched: None
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy; Department of Medicine, Anaesthesiology and Intensive Care, University of Padova, Padova, Italy. Electronic address: federico.linassi@gmail.com.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+  - Department of Anesthesia and Intensive Care, Integrated University Hospital of Verona, Verona, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35654630/
+--------------------------------------------------------------------------------
+
+[22] PMID: 34164175
+Year: 2021
+Title: Chronic lung allograft pathology lesions in two rat strain combinations.
+Journal: Journal of thoracic disease
+Authors: Pezzuto Federica, Lunardi Francesca, Vadori Marta, Zampieri Davide, Casiraghi Federica, Azzollini Nadia, Vuljan Stefania Edith, Mammana Marco, Vedovelli Luca, Schiavon Marco, Gregori Dario, Cozzi Emanuele, Rea Federico, Calabrese Fiorella
+
+DCTV Authors matched: Pezzuto Federica, Vadori Marta, Vedovelli Luca, Schiavon Marco, Gregori Dario, Cozzi Emanuele, Calabrese Fiorella
+DSF Authors matched: None
+
+All affiliations:
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - CORIT, Ospedale Giustinianeo, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Mario Negri Institute for Pharmacological Research, Bergamo, Italy.
+  - Mario Negri Institute for Pharmacological Research, Bergamo, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova Medical School, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/34164175/
+--------------------------------------------------------------------------------
+
+[23] PMID: 33533563
+Year: 2021
+Title: COVID-19 related masks increase severity of both acne (maskne) and rosacea (mask rosacea): Multi-center, real-life, telemedical, and observational prospective study.
+Journal: Dermatologic therapy
+Authors: Damiani Giovanni, Gironi Laura C, Grada Ayman, Kridin Khalaf, Finelli Renata, Buja Alessandra, Bragazzi Nicola L, Pigatto Paolo D M, Savoia Paola
+
+DCTV Authors matched: Buja Alessandra
+DSF Authors matched: None
+
+All affiliations:
+  - Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+  - Department of Biomedical, Surgical, and Dental Sciences, University of Milan, Milan, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy.
+  - AOU Maggiore della Carità, Novara, Italy.
+  - Department of Dermatology, Boston University School of Medicine, Boston, Massachusetts, USA.
+  - Lübeck Institute of Experimental Dermatology, University of Lübeck, Lübeck, Germany.
+  - American Center for Reproductive Medicine, Cleveland Clinic, Cleveland, Ohio, USA.
+  - Department of Cardiac, Thoracic, Vascular Sciences, and Public Health, Unit of Hygiene and Public Health, University of Padua, Padua, Italy.
+  - Department of Mathematics and Statistics, Laboratory for Industrial and Applied Mathematics (LIAM), York University, Toronto, Canada.
+  - Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+  - Department of Biomedical, Surgical, and Dental Sciences, University of Milan, Milan, Italy.
+  - Department of Health Sciences, University of Eastern Piedmont, Novara, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33533563/
+--------------------------------------------------------------------------------
+
+[24] PMID: 33527560
+Year: 2021
+Title: Mask-induced Koebner phenomenon and its clinical phenotypes: A multicenter, real-life study focusing on 873 dermatological consultations during COVID-19 pandemics.
+Journal: Dermatologic therapy
+Authors: Damiani Giovanni, Gironi Laura Cristina, Kridin Khalaf, Pacifico Alessia, Buja Alessandra, Bragazzi Nicola Luigi, Spalkowska Magdalena, Pigatto Paolo Daniele Maria, Santus Pierachille, Savoia Paola
+
+DCTV Authors matched: Buja Alessandra
+DSF Authors matched: None
+
+All affiliations:
+  - Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+  - Department of Biomedical, Surgical, and Dental Sciences, University of Milan, Milan, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy.
+  - AOU Maggiore della Carità, Novara, Italy.
+  - Lübeck Institute of Experimental Dermatology, University of Lübeck, Lübeck, Germany.
+  - Clinical Dermatology Department, IRCCS S. Gallicano Dermatological Institute, Rome, Italy.
+  - Department of Cardiac, Thoracic, Vascular Sciences and Public Health, Unit of Hygiene and Public Health, University of Padua, Padua, Italy.
+  - Laboratory for Industrial and Applied Mathematics (LIAM), Department of Mathematics and Statistics, York University, Toronto, Canada.
+  - Faculty of Medicine, Department of Dermatology, Jagellonian University Medical College, Krakow, Poland.
+  - Department of Rheumatology and Immunology, University Hospital of Krakow, Krakow, Poland.
+  - Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy.
+  - Department of Biomedical, Surgical, and Dental Sciences, University of Milan, Milan, Italy.
+  - Department of Biomedical and Clinical Sciences (DIBIC), Università degli Studi di Milano, Milano, Italy.
+  - Department of Health Sciences, University of Eastern Piedmont, Novara, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33527560/
+--------------------------------------------------------------------------------
+
+[25] PMID: 30668723
+Year: 2020
+Title: A Study on Photostability of Ethyl Glucuronide in Hair Irradiated under Artificial Sunlight.
+Journal: Journal of analytical toxicology
+Authors: Miolo Giorgia, Stocchero Giulia, Vogliardi Susanna, Menilli Luca, Scrivano Salvatore, Montisci Massimo, Favretto Donata
+
+DCTV Authors matched: Montisci Massimo, Favretto Donata
+DSF Authors matched: Miolo Giorgia, Menilli Luca
+
+All affiliations:
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic and Vascular Sciences and Public Health, Legal Medicine and Toxicology, University Hospital of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic and Vascular Sciences and Public Health, Legal Medicine and Toxicology, University Hospital of Padova, Padova, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.
+  - School of Specialization in Legal Medicine, University Hospital of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic and Vascular Sciences and Public Health, Legal Medicine and Toxicology, University Hospital of Padova, Padova, Italy.
+  - Department of Cardiac, Thoracic and Vascular Sciences and Public Health, Legal Medicine and Toxicology, University Hospital of Padova, Padova, Italy.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/30668723/
+--------------------------------------------------------------------------------
+
+[26] PMID: 32518155
+Year: 2020
+Title: The J-elongated conformation of β
+Journal: The Journal of biological chemistry
+Authors: Ruben Eliza, Planer William, Chinnaraj Mathivanan, Chen Zhiwei, Zuo Xiaobing, Pengo Vittorio, De Filippis Vincenzo, Alluri Ravi K, McCrae Keith R, Macor Paolo, Tedesco Francesco, Pozzi Nicola
+
+DCTV Authors matched: None
+DSF Authors matched: De Filippis Vincenzo
+
+All affiliations:
+  - Edward A. Doisy Department of Biochemistry and Molecular Biology, Saint Louis University School of Medicine, St. Louis, Missouri, USA.
+  - Edward A. Doisy Department of Biochemistry and Molecular Biology, Saint Louis University School of Medicine, St. Louis, Missouri, USA.
+  - Edward A. Doisy Department of Biochemistry and Molecular Biology, Saint Louis University School of Medicine, St. Louis, Missouri, USA.
+  - Edward A. Doisy Department of Biochemistry and Molecular Biology, Saint Louis University School of Medicine, St. Louis, Missouri, USA.
+  - X-Ray Science Division, Argonne National Laboratory, Argonne, Illinois, USA.
+  - Thrombosis Research Laboratory, Department of Cardiac Thoracic and Vascular Sciences, and Public Health, University of Padova, Padova, Italy.
+  - Arianna Foundation on Anticoagulation, Bologna, Italy.
+  - Department of Pharmaceutical & Pharmacological Sciences, University of Padua, Padua, Italy.
+  - Department of Cellular and Molecular Medicine, Cleveland Clinic, Cleveland, Ohio, USA.
+  - Department of Cellular and Molecular Medicine, Cleveland Clinic, Cleveland, Ohio, USA.
+  - Department of Life Sciences, University of Trieste, Trieste, Italy.
+  - Istituto Auxologico Italiano, IRCCS, Laboratory of Immuno-Rheumatology, Milan, Italy.
+  - Edward A. Doisy Department of Biochemistry and Molecular Biology, Saint Louis University School of Medicine, St. Louis, Missouri, USA nicola.pozzi@health.slu.edu.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/32518155/
+--------------------------------------------------------------------------------
+
+[27] PMID: 29204052
+Year: 2017
+Title: Pregnane X receptor and constitutive androstane receptor modulate differently CYP3A-mediated metabolism in early- and late-stage cholestasis.
+Journal: World journal of gastroenterology
+Authors: Gabbia Daniela, Pozza Arianna Dalla, Albertoni Laura, Lazzari Roberta, Zigiotto Giorgia, Carrara Maria, Baldo Vincenzo, Baldovin Tatjana, Floreani Annarosa, Martin Sara De
+
+DCTV Authors matched: Baldo Vincenzo, Baldovin Tatjana
+DSF Authors matched: Gabbia Daniela
+
+All affiliations:
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova 35131, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova 35131, Italy.
+  - Department of Medicine, General Pathology and Cytopathology Unit, University of Padova, Padova 35131, Italy.
+  - Department of Cardiac, Thoracic, and Vascular Sciences, Hygiene and Public Health Unit, University of Padova, Padova 35131, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova 35131, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova 35131, Italy.
+  - Department of Cardiac, Thoracic, and Vascular Sciences, Hygiene and Public Health Unit, University of Padova, Padova 35131, Italy.
+  - Department of Cardiac, Thoracic, and Vascular Sciences, Hygiene and Public Health Unit, University of Padova, Padova 35131, Italy.
+  - Department of Surgery, Oncology and Gastroenterology, University of Padova, Padova 35131, Italy.
+  - Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova 35131, Italy. sara.demartin@unipd.it.
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/29204052/
+--------------------------------------------------------------------------------
+
